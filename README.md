@@ -34,15 +34,7 @@ The following decisions and assumptions were made during the development of the 
 - The API provides all the required data for the app
 - The API response will always be in the expected format
 - The user has an active internet connection to access the Last.fm API
-# Decisions and Assumptions
-The following decisions and assumptions were made during the development of the MusicWiki app:
 
-- Data Source: The app uses the Last.fm API to retrieve artist, album, and song data. This API was chosen because it provides a vast music library, including detailed artist information, top tracks, and album details.
-## Assumptions:
-
-- The API provides all the required data for the app
-- The API response will always be in the expected format
-- The user has an active internet connection to access the Last.fm API
 
 ###
 # Screenshots
